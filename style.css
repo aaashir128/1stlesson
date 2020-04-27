@@ -1,0 +1,130 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* table{
+    width: 600px;
+    margin: 10px auto; 
+    border-spacing: 5px 10px;
+    empty-cells: show;
+    
+}
+tr.even{
+    background-color: lightskyblue;
+}
+
+tr:hover{
+    background-color: grey;
+}
+th,td{
+    padding: 10px;
+    border: solid 2px blue;
+}
+
+form{
+    padding: 10px;
+    margin: 10px auto;
+    width: 500px;
+}
+input{
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+}
+input:focus{
+    border-color:yellow;
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    border:none;
+    background-color: palevioletred;
+    color: white;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.email{
+    /* background-image: url("https://webstockreview.net/images/mail-icon-png-2.png"); */
+    background-size: 35px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px;
+}
+.password{
+    /* background-image: url("https://i.ya-webdesign.com/images/how-to-change-png-to-icon-format-4.png"); */
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 50px;
+}
+fieldset{
+    border-radius: 6px ;
+    border: 5px solid grey;
+}
+legend{
+    padding: 10px;
+    background-color: lightgray;
+    color: royalblue;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+.login{
+    text-align: center;
+}
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+.black{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    margin: 10px ;
+    padding: 10px;
+    border: dashed red 2px;
+    display: inline-block;
+    
+}
+.white{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: dashed black;
+    display: inline-block;
+}
+body{
+    background-color: lightblue; */
+}
+/* img{
+    position : absolute;
+    top: 95px;
+    left: 60px;
+    background-color: transparent; */
+}
+img{
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+}
+.first{
+    height: 50px;
+    width: 300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color: blanchedalmond;
+    float: left;
+    
+    
+}
+.second{
+    height: 50px;
+    width: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blue;
+    float: left;
+    margin: 50px;   
+  
+}
